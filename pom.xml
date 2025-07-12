@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rushi</groupId>
 	<artifactId>student-reg-webapp</artifactId>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
 		<java.version>17</java.version>
@@ -29,7 +29,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://15.206.116.109:8081/repository/student-reg-appp-snapshots/</url>
+			<url>http://15.206.116.109:8081/repository/student-reg-webapp-snap/</url>
 		</snapshotRepository>
     </distributionManagement>
 
